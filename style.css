@@ -1,0 +1,74 @@
+.home-body{
+    text-align: left;
+    background-image:url("https://lh3.googleusercontent.com/p/AF1QipNrOmMgmPQGqTtOUgqu_1R_W-X_zbzDOeQRhTvj=s680-w680-h510");
+    background-repeat:no-repeat;
+    background-size:2000px 1000px;
+}
+.header{
+    border:5px solid green;
+    color:crimson;
+    width:49%;
+    text-align: center;
+}
+h2{
+    color:white;
+    background-color: green;
+    
+}
+h3{
+    color:crimson;
+}
+p{
+    color:white;
+    background-color: green;
+}
+.content{
+    background-color:green;
+    width:50%;
+    text-align: center;
+    
+}
+.Tabs{
+    background-color:crimson;
+    width:50%;
+    text-align: center;
+    
+}
+.info{
+    text-align: center;
+    color:green;
+    
+    
+}
+.image{
+    text-align: center;
+}
+hr{
+    border:5px solid crimson;
+}
+.Pictures{
+    text-align: center;
+    color:crimson;
+    border:5px dotted green;
+    
+}
+img{
+    margin-bottom:10px;
+}
+.offer{
+   color:green;
+   text-align:center;
+   
+   
+    
+}
+.footer{
+    text-align: center;
+    border:2px solid indigo;
+}
+
+
+
+
+
+ 
